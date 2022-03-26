@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyLZC)](https://github.com/AndyLZC/github-readme-stats)
 <!--
 **AndyLZC/AndyLZC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
